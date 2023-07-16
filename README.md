@@ -1,5 +1,3 @@
-Certainly! Here's an example of a README.md file for a notes application:
-
 # Noteify - Simple Notes Application
 
 Noteify is a simple and intuitive notes application that allows you to create, manage, and organize your personal notes efficiently. With Noteify, you can quickly jot down ideas, to-do lists, reminders, and more, ensuring you never miss out on important information.
@@ -16,9 +14,11 @@ Noteify is a simple and intuitive notes application that allows you to create, m
 
 ## Screenshots
 
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
-![Screenshot 3](screenshots/screenshot3.png)
+<!-- Screenshots -->
+<div style="display: flex; justify-content: space-between;">
+  <img src="screenshots/screenshot1.png" alt="Screenshot 1" width="300" />
+  <img src="screenshots/screenshot2.png" alt="Screenshot 2" width="300" />
+</div>
 
 ## Technologies Used
 
@@ -52,9 +52,8 @@ Special thanks to the contributors and open source libraries used in this projec
 
 For any inquiries or questions, please contact:
 
-- Your Name - yourname@example.com
-- Project Link: [https://github.com/your-username/noteify](https://github.com/your-username/noteify)
+- Your Name - shabajansari843@gmail.com
+- Project Link: [https://github.com/SHabaj-dev/noteify](https://github.com/SHabaj-dev/Notify)
 
 ---
 
-Feel free to customize this README.md file according to your specific project details and requirements. Include relevant information about your application's features, technologies used, installation instructions, contribution guidelines, and licensing information. Additionally, consider adding screenshots or GIFs to showcase the application's user interface and functionality.
