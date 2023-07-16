@@ -21,15 +21,17 @@
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent">
 
-            <EditText
+            <AutoCompleteTextView
                 android:id="@+id/sv_searchNotes"
                 android:layout_width="match_parent"
                 android:layout_height="?attr/actionBarSize"
                 android:background="@drawable/round_corner_rectangle_background"
                 android:drawableStart="@drawable/baseline_search_24"
+                android:hint="@string/search"
                 android:padding="@dimen/_10dp"
                 android:textAlignment="textStart"
                 android:textColor="@color/black"
+                android:textColorHint="@color/gray"
                 android:textSize="@dimen/_20sp" />
 
         </androidx.cardview.widget.CardView>
