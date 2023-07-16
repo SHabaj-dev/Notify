@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Noteify</string>
+    <string name="note_down_everything">Note Down Everything</string>
+    <string name="_12_12_1999">12/12/1999</string>
+    <string name="title">Title</string>
+    <string name="note_body">Note body</string>
+    <string name="add_notes">Add Notes</string>
+    <string name="fab_shape_after_swipe">FAB shape after swipe</string>
+    <string name="what_s_on_your_mind">What\'s on your mind....</string>
+    <string name="save">Save</string>
+    <string name="ok">Ok</string>
+    <string name="saved_sucessfully">Saved Sucessfully</string>
+</resources>
